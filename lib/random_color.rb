@@ -1,3 +1,5 @@
+require "json"
+
 class RandomColor
   def call(env)
     [
